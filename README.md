@@ -52,3 +52,4 @@ This dashboard does not just display data—it provides additional insights that
 
 The project demonstrates how Excel can be used to turn raw data into actionable information for better business decisions.
 
+<img width="1007" height="724" alt="image" src="https://github.com/user-attachments/assets/8bdce4b8-7655-457e-be19-5d89a1435039" />
